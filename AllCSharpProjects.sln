@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeRangeV3", "PrimeRangeV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeRangeV4WithLinqFullSafety", "PrimeRangeV4WithLinqFullSafety\PrimeRangeV4WithLinqFullSafety.csproj", "{86E1DE7D-9171-46F7-9AA2-441893DE9B6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberAlgorithmEvaluationV1", "PrimeNumberAlgorithmEvaluationV1\PrimeNumberAlgorithmEvaluationV1.csproj", "{474C4B45-FBAB-403D-9A46-9B80872E8304}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{86E1DE7D-9171-46F7-9AA2-441893DE9B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E1DE7D-9171-46F7-9AA2-441893DE9B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E1DE7D-9171-46F7-9AA2-441893DE9B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{474C4B45-FBAB-403D-9A46-9B80872E8304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474C4B45-FBAB-403D-9A46-9B80872E8304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474C4B45-FBAB-403D-9A46-9B80872E8304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474C4B45-FBAB-403D-9A46-9B80872E8304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
