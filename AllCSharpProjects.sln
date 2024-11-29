@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeRangeV2", "PrimeRangeV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeRangeV3", "PrimeRangeV3\PrimeRangeV3.csproj", "{E293E6CC-3D21-4FA6-804D-024FB7919462}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeRangeV4WithLinqFullSafety", "PrimeRangeV4WithLinqFullSafety\PrimeRangeV4WithLinqFullSafety.csproj", "{86E1DE7D-9171-46F7-9AA2-441893DE9B6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{E293E6CC-3D21-4FA6-804D-024FB7919462}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E293E6CC-3D21-4FA6-804D-024FB7919462}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E293E6CC-3D21-4FA6-804D-024FB7919462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E1DE7D-9171-46F7-9AA2-441893DE9B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E1DE7D-9171-46F7-9AA2-441893DE9B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E1DE7D-9171-46F7-9AA2-441893DE9B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E1DE7D-9171-46F7-9AA2-441893DE9B6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
