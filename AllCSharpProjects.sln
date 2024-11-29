@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{3E62A214-C66B-4F29-8AFF-044B1D6D8539}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1DArray", "1DArray\1DArray.csproj", "{5D104286-31EC-4AB8-BB48-A41D30070B69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3E62A214-C66B-4F29-8AFF-044B1D6D8539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E62A214-C66B-4F29-8AFF-044B1D6D8539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E62A214-C66B-4F29-8AFF-044B1D6D8539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D104286-31EC-4AB8-BB48-A41D30070B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D104286-31EC-4AB8-BB48-A41D30070B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D104286-31EC-4AB8-BB48-A41D30070B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D104286-31EC-4AB8-BB48-A41D30070B69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
