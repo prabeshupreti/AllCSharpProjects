@@ -32,5 +32,5 @@ for (int i = 1; i <= MaxRange; i++)
 
 Stopwatch.Stop();
 
-//Will normally take 300 mili seconds.
+//Will normally take 300 mili seconds or less.
 Console.WriteLine($"Elapsed time to evaluate {MaxRange} is {Stopwatch.Elapsed.ToString(@"mm\:ss\:fffffff")}.");
