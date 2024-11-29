@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeRangeV4WithLinqFullSaf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberAlgorithmEvaluationV1", "PrimeNumberAlgorithmEvaluationV1\PrimeNumberAlgorithmEvaluationV1.csproj", "{474C4B45-FBAB-403D-9A46-9B80872E8304}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberAlgorithmEvaluationV2", "PrimeNumberAlgorithmEvaluationV2\PrimeNumberAlgorithmEvaluationV2.csproj", "{715558B5-BDA4-4D38-822E-435031AB97AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{474C4B45-FBAB-403D-9A46-9B80872E8304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{474C4B45-FBAB-403D-9A46-9B80872E8304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{474C4B45-FBAB-403D-9A46-9B80872E8304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715558B5-BDA4-4D38-822E-435031AB97AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715558B5-BDA4-4D38-822E-435031AB97AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715558B5-BDA4-4D38-822E-435031AB97AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715558B5-BDA4-4D38-822E-435031AB97AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

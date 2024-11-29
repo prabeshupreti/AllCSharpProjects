@@ -13,19 +13,15 @@ for (int i = 1; i <= MaxRange; i++)
     {
         IsPrime = false;
     }
-    else if (i == 2 || i == 3)
+    else if (i == 2)
     {
         IsPrime = true;
     }
-    else if (i % 2 == 0 || i % 3 == 0)
-    {
-        IsPrime = false;
-    }
     else
     {
-        for (int j = 5; j * j <= i; j += 6)
+        for (int j = 2; j * j <= i; j++)
         {
-            if (i % j == 0 || i % (j + 2) == 0)
+            if (i % j == 0)
             {
                 IsPrime = false;
                 break;
@@ -36,5 +32,5 @@ for (int i = 1; i <= MaxRange; i++)
 
 Stopwatch.Stop();
 
-//Will normally take 100 mili seconds.
+//Will normally take 300 mili seconds.
 Console.WriteLine($"Elapsed time to evaluate {MaxRange} is {Stopwatch.Elapsed.ToString(@"mm\:ss\:fffffff")}.");
