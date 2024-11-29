@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStrings", "CSharpStri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestNumberV3UsingLinq", "GreatestNumberV3UsingLinq\GreatestNumberV3UsingLinq.csproj", "{C071BD59-6CC0-4389-BA32-3BCFC3B9058F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWithSwitch", "CalculatorWithSwitch\CalculatorWithSwitch.csproj", "{6F0AAAAE-A0FA-4CAE-AB1D-3FE27FD5E597}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{C071BD59-6CC0-4389-BA32-3BCFC3B9058F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C071BD59-6CC0-4389-BA32-3BCFC3B9058F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C071BD59-6CC0-4389-BA32-3BCFC3B9058F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0AAAAE-A0FA-4CAE-AB1D-3FE27FD5E597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0AAAAE-A0FA-4CAE-AB1D-3FE27FD5E597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0AAAAE-A0FA-4CAE-AB1D-3FE27FD5E597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0AAAAE-A0FA-4CAE-AB1D-3FE27FD5E597}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
