@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberAlgorithmEvaluat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberAlgorithmEvaluationV4WithLinq", "PrimeNumberAlgorithmEvaluationV4WithLinq\PrimeNumberAlgorithmEvaluationV4WithLinq.csproj", "{95586FC9-1057-4DA0-B3C3-447B3BE97069}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixAddition", "MatrixAddition\MatrixAddition.csproj", "{802C8081-BB0A-4DF3-95CC-32DAEB52AD2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{95586FC9-1057-4DA0-B3C3-447B3BE97069}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95586FC9-1057-4DA0-B3C3-447B3BE97069}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95586FC9-1057-4DA0-B3C3-447B3BE97069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{802C8081-BB0A-4DF3-95CC-32DAEB52AD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802C8081-BB0A-4DF3-95CC-32DAEB52AD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802C8081-BB0A-4DF3-95CC-32DAEB52AD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802C8081-BB0A-4DF3-95CC-32DAEB52AD2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
