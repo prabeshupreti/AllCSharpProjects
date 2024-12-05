@@ -32,7 +32,7 @@ int BothParametersAndReturns(int a, int b)
 #region Recursive Function
 int SumToRange(int Range) 
 {
-    if (Range >= 0)
+    if (Range <= 0)
     {
         return 0;
     }
