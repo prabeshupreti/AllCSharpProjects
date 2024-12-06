@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciWithFunction", "Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixAdditionWithFunction", "MatrixAdditionWithFunction\MatrixAdditionWithFunction.csproj", "{DB065E1D-991E-41DD-8088-80BF809271F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplicationWithFunction", "MatrixMultiplicationWithFunction\MatrixMultiplicationWithFunction.csproj", "{CF5925BD-7AD1-411C-AAC6-4BC0879753D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{DB065E1D-991E-41DD-8088-80BF809271F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB065E1D-991E-41DD-8088-80BF809271F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB065E1D-991E-41DD-8088-80BF809271F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5925BD-7AD1-411C-AAC6-4BC0879753D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5925BD-7AD1-411C-AAC6-4BC0879753D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5925BD-7AD1-411C-AAC6-4BC0879753D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5925BD-7AD1-411C-AAC6-4BC0879753D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
