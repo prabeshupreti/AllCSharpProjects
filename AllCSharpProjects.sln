@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMultiplication", "Mat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsExample", "FunctionsExample\FunctionsExample.csproj", "{CCACCB77-04F8-4949-BF9B-812AC5D52BF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialWithFunction", "FactorialWithFunction\FactorialWithFunction.csproj", "{135935D3-CC40-4E08-B564-FC0A3E8EA65A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{CCACCB77-04F8-4949-BF9B-812AC5D52BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCACCB77-04F8-4949-BF9B-812AC5D52BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCACCB77-04F8-4949-BF9B-812AC5D52BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135935D3-CC40-4E08-B564-FC0A3E8EA65A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135935D3-CC40-4E08-B564-FC0A3E8EA65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135935D3-CC40-4E08-B564-FC0A3E8EA65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135935D3-CC40-4E08-B564-FC0A3E8EA65A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
