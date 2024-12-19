@@ -4,6 +4,8 @@ using System.Diagnostics;
 int MaxRange = 900000;
 Stopwatch Stopwatch = Stopwatch.StartNew();
 
+Console.WriteLine("Starting diagnostics: ");
+
 Stopwatch.Start();
 for (int i = 1; i <= MaxRange; i++)
 {

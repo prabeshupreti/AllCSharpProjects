@@ -3,6 +3,8 @@
 int MaxRange = 900000;
 Stopwatch Stopwatch = Stopwatch.StartNew();
 
+Console.WriteLine("Starting diagnostics: ");
+
 Stopwatch.Start();
 
 Enumerable.Range(Math.Max(1, 2), Math.Max(0, MaxRange - Math.Max(1, 2) + 1))
