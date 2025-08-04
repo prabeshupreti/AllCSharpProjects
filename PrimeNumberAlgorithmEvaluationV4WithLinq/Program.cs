@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-int MaxRange = 900000;
+int MaxRange = 400000;
 Stopwatch Stopwatch = Stopwatch.StartNew();
 
 Console.WriteLine("Starting diagnostics: ");
@@ -17,6 +17,6 @@ Enumerable.Range(Math.Max(1, 2), Math.Max(0, MaxRange - Math.Max(1, 2) + 1))
 
 Stopwatch.Stop();
 
-//Will normally take a second or less. Slower than the version 3 due to LINQ abstractions.
+//Will normally take 32 miliseconds or less on full CPU power. Slower than the version 3 due to LINQ abstractions.
 //If not converted to list, Enumeration will talke no time due to defer algorithm.
 Console.WriteLine($"Elapsed time to evaluate {MaxRange} is {Stopwatch.Elapsed.ToString(@"mm\:ss\:fffffff")}.");

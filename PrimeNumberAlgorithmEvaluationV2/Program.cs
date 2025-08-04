@@ -1,7 +1,7 @@
 ﻿
 using System.Diagnostics;
 
-int MaxRange = 900000;
+int MaxRange = 400000;
 Stopwatch Stopwatch = Stopwatch.StartNew();
 
 Console.WriteLine("Starting diagnostics: ");
@@ -34,5 +34,5 @@ for (int i = 1; i <= MaxRange; i++)
 
 Stopwatch.Stop();
 
-//Will normally take 300 mili seconds or less.
+//Will normally take 90 miliseconds or less on full CPU power.
 Console.WriteLine($"Elapsed time to evaluate {MaxRange} is {Stopwatch.Elapsed.ToString(@"mm\:ss\:fffffff")}.");

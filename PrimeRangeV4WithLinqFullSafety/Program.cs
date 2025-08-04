@@ -15,4 +15,4 @@ Enumerable.Range(Math.Max(BeginRange, 2), Math.Max(0, EndRange - Math.Max(BeginR
                                               .Where(d => d % 6 == 1 || d % 6 == 5)
                                               .All(divisor => n % divisor != 0)))
                        .ToList()
-                        .ForEach(x => Console.Write($"{x} "));
+                        .ForEach(Console.WriteLine);
