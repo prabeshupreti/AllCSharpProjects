@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAllCodes", "StringAll
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{24E8C952-34B2-406B-AE00-61B99F0EC649}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hailstone", "Hailstone\Hailstone.csproj", "{5916E30D-D5CF-48AA-AE0B-3A28FF5B0986}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{24E8C952-34B2-406B-AE00-61B99F0EC649}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24E8C952-34B2-406B-AE00-61B99F0EC649}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24E8C952-34B2-406B-AE00-61B99F0EC649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5916E30D-D5CF-48AA-AE0B-3A28FF5B0986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5916E30D-D5CF-48AA-AE0B-3A28FF5B0986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5916E30D-D5CF-48AA-AE0B-3A28FF5B0986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5916E30D-D5CF-48AA-AE0B-3A28FF5B0986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
